@@ -69,7 +69,7 @@ $ docker build -t gotechnies .
 </pre>
 
 <h2>Try to connect with ssh server</h2>
-<pre>$ ssh root@localhost -p2222 </pre>
+<pre>$ ssh root@localhost -p 2222 </pre>
 
 Use the password you have added in the Dockerfile.
 <pre>gotechnies</pre>
